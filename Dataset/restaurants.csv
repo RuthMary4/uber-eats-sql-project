@@ -1,0 +1,51 @@
+restaurant_id,rastaurant_name,city,opening_hours
+1,The Gilded Fork,berlin,10am-11pm
+2,Spice Merchant Eatery,berlin,10am-11pm
+3,Ocean Mist Grill,berlin,10am-11pm
+4,Rustic Hearth Kitchen,berlin,10am-11pm
+5,Urban Bites Cafe,berlin,10am-11pm
+6,Crimson Spoon Bistro,berlin,10am-11pm
+7,The Wandering Wok,berlin,10am-11pm
+8,Starlight Diner,berlin,10am-11pm
+9,Blue Anchor Tavern,berlin,10am-11pm
+10,Whispering Pines Eatery,berlin,10am-11pm
+11,Iron Skillet Grill,berlin,10am-11pm
+12,Golden Ladle Soup House,berlin,10am-11pm
+13,The Cozy Kettle,berlin,10am-11pm
+14,Midnight Munchies,tokyo,10am-11pm
+15,Saffron & Sage,tokyo,9am-19pm
+16,The Flying Fish,tokyo,9am-19pm
+17,Brick Oven Delights,tokyo,9am-19pm
+18,Secret Garden Cafe,tokyo,9am-19pm
+19,The Roaming Rooster,tokyo,9am-19pm
+20,Sugar Maple Bistro,tokyo,9am-19pm
+21,Harbor View Seafood,tokyo,9am-19pm
+22,The Spicy Olive,tokyo,9am-19pm
+23,Moonbeam Bakery & Cafe,tokyo,9am-19pm
+24,Thirsty Traveler Pub,tokyo,9am-19pm
+25,The Green Sprout,newyork,9am-19pm
+26,Copper Pot Cuisine,newyork,9am-19pm
+27,Riverside Ribs,newyork,9am-19pm
+28,The Sweet Spot Dessert Bar,newyork,9am-19pm
+29,The Daily Dish,newyork,9am-19pm
+30,Firefly Grill,newyork,9am-19pm
+31,Coastal Catch,newyork,9am-19pm
+32,The Velvet Vine,newyork,9am-19pm
+33,Morning Glory Cafe,newyork,9am-19pm
+34,The Blind Pig Speakeasy (themed),newyork,9am-19pm
+35,The Curious Palate,newyork,9am-19pm
+36,Stone & Skillet,dublin,9am-19pm
+37,The Ginger Jar,dublin,9am-19pm
+38,Twilight Tapas,dublin,9am-19pm
+39,The Hungry Nomad,dublin,9am-19pm
+40,Emerald Eats,dublin,9am-19pm
+41,The Bluebird Bistro,dublin,9am-19pm
+42,Old Town Ale House,dublin,9am-19pm
+43,The Cinnamon Swirl,dublin,9am-19pm
+44,The Savory Spoon,dublin,9am-19pm
+45,The Hidden Gem,dublin,9am-19pm
+46,The Wildflower Grill,dublin,9am-19pm
+47,The Golden Crumb,dublin,9am-19pm
+48,The Spice Route,dublin,9am-19pm
+49,The Harbor Light,dublin,9am-19pm
+50,moon light,dublin,9am-19pm

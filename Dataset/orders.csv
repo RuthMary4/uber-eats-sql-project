@@ -1,0 +1,50 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+483,2,8,Pizza,7/23/2024,12:50:58,completed,458
+323,15,32,Burger,7/24/2024,13:50:58,completed,123
+419,12,21,Salad,7/25/2024,14:50:58,completed,987
+256,21,19,Pasta,7/26/2024,15:50:58,completed,562
+7,27,14,Sushi,7/27/2024,16:50:58,completed,15
+635,14,37,Steak,7/28/2024,17:50:58,completed,789
+980,3,31,Chicken Wings,7/29/2024,18:50:58,completed,236
+643,19,12,Fries,7/30/2024,19:50:58,completed,654
+153,25,45,Sandwich,7/31/2024,20:50:58,completed,321
+735,21,29,Soup,08-01-2024,21:50:58,completed,890
+457,10,23,Taco,08-02-2024,22:50:58,completed,102
+883,17,24,Burrito,08-03-2024,23:50:58,completed,587
+801,11,5,Noodles,08-04-2024,00:50:58,completed,963
+881,22,28,Rice,08-05-2024,01:50:58,completed,417
+87,11,39,Eggs,08-06-2024,02:50:58,completed,99
+384,20,30,Bacon,08-07-2024,03:50:58,completed,741
+470,30,17,Toast,08-08-2024,04:50:58,completed,258
+818,2,16,Cereal,08-09-2024,05:50:58,completed,639
+54,29,48,Yogurt,08-10-2024,06:50:58,completed,305
+583,28,41,Fruit Salad,08-11-2024,07:50:58,completed,874
+691,16,27,Vegetable Stir-fry,08-12-2024,08:50:58,completed,111
+533,18,36,Salmon,8/13/2024,09:50:58,completed,555
+147,24,35,Shrimp,8/14/2024,10:50:58,completed,999
+450,29,11,Tuna Salad,8/15/2024,11:50:58,completed,444
+415,7,22,Hot Dog,8/16/2024,12:50:58,completed,7
+368,23,41,Quesadilla,8/17/2024,13:50:58,completed,777
+136,31,20,Omelette,8/18/2024,14:50:58,completed,222
+425,24,3,Pancakes,8/19/2024,15:50:58,completed,666
+906,13,25,Waffles,8/20/2024,16:50:58,completed,333
+230,26,47,Muffin,8/21/2024,17:50:58,completed,888
+433,19,20,Croissant,8/22/2024,18:50:58,completed,120
+554,30,31,Donut,8/23/2024,19:50:58,completed,590
+982,5,33,Ice Cream,8/24/2024,20:50:58,completed,970
+921,20,44,Chocolate Cake,8/25/2024,21:50:58,completed,460
+100,13,14,Apple Pie,8/26/2024,22:50:58,completed,30
+202,17,49,Brownie,8/27/2024,23:50:58,completed,710
+244,5,18,Cookies,8/28/2024,00:50:58,completed,280
+656,22,25,Popcorn,8/29/2024,01:50:58,completed,640
+800,31,13,Pretzels,8/30/2024,02:50:58,completed,350
+50,29,39,Chips,8/31/2024,03:50:58,completed,820
+946,16,6,Guacamole,09-01-2024,04:50:58,completed,159
+964,27,21,Salsa,09-02-2024,05:50:58,completed,528
+166,19,18,Hummus,09-03-2024,06:50:58,completed,937
+711,26,17,Olives,09-04-2024,07:50:58,completed,406
+176,9,32,Cheese,09-05-2024,08:50:58,completed,75
+94,21,43,Crackers,09-06-2024,09:50:58,completed,794
+963,31,15,Peanut Butter,09-07-2024,10:50:58,completed,263
+837,28,9,Jelly,09-08-2024,11:50:58,completed,612
+42,15,10,organe juice,09-09-2024,12:50:58,completed,381
