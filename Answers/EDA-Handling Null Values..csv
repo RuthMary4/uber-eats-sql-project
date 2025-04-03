@@ -1,0 +1,4 @@
+"order_id","customer_id","restaurant_id","order_item","order_date","order_time","order_status","total_amount"
+10002,2,8,NULL,NULL,NULL,NULL,NULL
+10003,12,21,NULL,NULL,NULL,NULL,NULL
+10005,27,14,NULL,NULL,NULL,NULL,NULL
